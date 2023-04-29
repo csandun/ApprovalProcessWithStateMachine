@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ApprovalProcessWithStateMachine.props" />
+</Project>
